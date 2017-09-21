@@ -54,7 +54,7 @@ int main()
     cout<<"\n c2="<<c2.getCount();  //display
     c2.incCount();                  //incement c1
     cout<<"\n c2="<<c2.getCount();  //display
-    
+
     return 0;
 
 }
